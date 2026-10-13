@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+  command = ""
+
+# Deze website bestaat uit statische bestanden; er is geen serverbuild nodig.
